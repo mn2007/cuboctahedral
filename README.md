@@ -1,5 +1,5 @@
 # cuboctahedral
-a python script for drawing a xyz file of a cuboctahedral cluster
+This is a python script for drawing a xyz file of a cuboctahedral cluster. You may create any size of a cluster. 
 
 ## Usage
 ```
